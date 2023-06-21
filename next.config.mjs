@@ -7,6 +7,7 @@ const nextConfig = {
     path: '',
   },
   assetPrefix: 'https://hongmingu.github.io/hongmingu/',
+  basePath: '/public'
 };
 
 export default nextConfig;
